@@ -9,7 +9,7 @@ section is to demonstrate recommended usage.
 Also see: :ref:`gotchas`
 
 
-Using CRS
+Using Coordiante Reference Systems (CRS)
 ---------
 For more usage examples and documentation see :class:`pyproj.crs.CRS`.
 
